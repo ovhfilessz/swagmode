@@ -5,6 +5,7 @@
 --\\ you cant give diamonds to anyone. Only for admins. 
 
 local Diamond = {
+1047257904,
 200547759,
 305608437,
 1688589423,
@@ -16,6 +17,7 @@ local Diamond = {
 }
 
 local cucumber = {
+2756402746,
 2473687614,
 537121224,
 301276266,
@@ -525,6 +527,7 @@ local Ghost = { --👻
 
 
 ModIDS = {
+2756402746,
 1597327223,
 2612075152,
 1542492507,
